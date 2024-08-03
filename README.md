@@ -15,5 +15,5 @@ Completed Dashboard can be accessed <a href= https://public.tableau.com/app/prof
 
 ![Dashboard 2](https://github.com/user-attachments/assets/005568b6-6377-4abe-a08d-c862053be76e)
 
-
-##High Level Insights
+## Insights
+Signup trends peaked in 
