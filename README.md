@@ -33,8 +33,14 @@ Completed Dashboard can be accessed <a href= https://public.tableau.com/app/prof
 * Coverage Matters, #healthyLiving, and Health for all claims amount increased in 2020 but has remained relatively stagnant. Compare Health Coverage steadily increased up til mid 2020 but dropped to similar levels as the other 3. All Other campaigns remained low.
 
 ## Recommendations
-* Decrease the budget for Golden Years Security due to it's high cost and low click through rate and sign up rate. Budget should be reallocated to other higher performing campaigns.
+# Metrics:
+* Decrease the budget for Golden Years Security due to its high cost and low click through rate and sign up rate. Budget should be reallocated to other higher performing campaigns.
 * Focus on marketing low costing campaigns that have high click through rate and sign up rate to increase patient count while maintaing a low budget usage. (i.e. Tailored Health Plans, #HealthyLiving, Preventative Care News...)
+# Signups:
+* Similar to the above, look into Golden Years Security due to its high cost and low count.
+* Run additional analysis with marketing on and compare the top 50% of campaigns against the bottom 50% campaigns and see why the low costing campaigns have a higher count. (i.e. better offers/content for value)
+# Claims:
 * Research into why claims amount increased for Compare Health Coverage, which had a high claims increased, while the rest remained leveled.
 * Research into the exact reason why the cause for the increase in sign up in 2020.
+# Additional Reccomendation:
 * Data on customers age should be collected to help segment based on age and allow for tailoring of campaigns based on those age buckets.
